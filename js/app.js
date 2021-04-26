@@ -6,7 +6,7 @@ const menuList = document.createElement('ul');
 
 
 // // ratio qui doit être visible par l'observeur
-const ratio = 0.6;
+const ratio = 0.4;
 
 // recherche tous les éléments avec la classe section
 const spies = document.querySelectorAll('[data-section]');
